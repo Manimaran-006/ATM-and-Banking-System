@@ -1,35 +1,22 @@
-# ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
-
+# ATM AND BANKING SYSTEM
+# Reg No: 212224220060
+# Name: MANIMARAN V
 
 # AIM:
 To develop the ATM and Banking System using Star UML
 
 # Problem Statement:
-1.Banks need to provide fast, secure, and self-service access to basic banking functionalities.
+1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
 
-2.Manual banking for simple tasks (like cash withdrawal or balance inquiry) leads to long queues and inefficient use of bank staff.
+2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
 
-3.There is a lack of consistent and secure user authentication in some older systems.
+3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
 
-4.Existing ATM systems may not be user-friendly or may lack multilingual support.
+4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
 
-5.Customers require 24/7 access to basic banking services without depending on bank working hours.
+5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 
-6.A reliable ATM software system is needed to:
-
-7.Allow users to securely access their accounts using ATM cards and PIN.
-
-8.Enable operations like cash withdrawal, balance inquiry, mini statement printing, and PIN change.
-
-9.Ensure real-time processing and data consistency with the core banking system.
-
-10.Provide a simple and intuitive user interface.
-
-
-# UML DIAGRAMS
+UML DIAGRAMS
 
 # USE CASE DIAGRAM
 
@@ -38,6 +25,7 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -50,6 +38,7 @@ Specifying the context and requirements of a system
 
 
 
+![UseCaseDiagram1](https://github.com/user-attachments/assets/ff9ee831-a205-4258-b4e3-dd1c3f857625)
 
 
 
@@ -68,8 +57,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
-
+![ClassDiagramatm](https://github.com/user-attachments/assets/45bf0dc6-1115-4923-bcab-79d6831a0024)
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -94,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+
 # ACTIVITY DIAGRAM:
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
@@ -105,6 +94,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+
 
 
 
@@ -135,4 +125,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
-
